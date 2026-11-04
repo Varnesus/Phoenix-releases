@@ -1,0 +1,14 @@
+Phoenix — licencja własnościowa / Proprietary license
+Copyright (c) 2025-2026 Varnesus. Wszelkie prawa zastrzeżone. All rights reserved.
+
+PL
+1. Phoenix (aplikacja, powłoka, integracje, kreator urządzeń, dokumentacja i narzędzia) jest utworem chronionym prawem autorskim. Do wszystkich praw autorskich majątkowych jest uprawniony autor.
+2. Wolno Ci pobrać oficjalne wydanie Phoenixa i używać go do konfigurowania własnych urządzeń, w tym do celów komercyjnych własnej działalności.
+3. Bez uprzedniej pisemnej zgody autora NIE wolno: kopiować, modyfikować, tłumaczyć, dekompilować ani rozpowszechniać kodu Phoenixa lub jego fragmentów; włączać ich do innych programów, projektów ani usług; publikować zmodyfikowanych wersji; usuwać informacji o prawach autorskich i licencji; używać nazwy „Phoenix” i logo w sposób mogący sugerować pochodzenie od autora.
+4. Zakaz z pkt 3 nie dotyczy składników innych autorów (wymienione w NOTICE.md), które podlegają własnym licencjom, w tym firmware oparty na QMK (GPL). Dla tych składników obowiązują ich licencje, a źródła firmware dołączane są do wydań.
+5. Wydanie podpisane kluczem autora jest jedyną oficjalną wersją. Kopie zmodyfikowane nie są wydaniami Phoenixa.
+6. Oprogramowanie jest dostarczane „tak jak jest”, bez gwarancji. Wgrywanie firmware odbywa się na własną odpowiedzialność użytkownika.
+7. Zgodę na inne użycie można uzyskać od autora (Varnesus, GitHub).
+
+EN (summary; the Polish text above is authoritative)
+Phoenix is proprietary software. You may download the official release and use it to configure your own devices. Without prior written permission of the author you may not copy, modify, decompile, redistribute or incorporate Phoenix code into other software or services, remove copyright notices, or publish modified versions. Third-party components (see NOTICE.md), notably QMK-based firmware under the GPL, remain under their own licenses and their source is shipped with each release. Provided "as is", without warranty.
